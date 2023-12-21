@@ -75,6 +75,16 @@ const Resume = () => {
         </div>
       </header>
 
+      <section>
+            <div style={sectionTitleStyle}>About Me</div>
+            <p>
+              Meticulous iOS developer with 2+ years of experience and passion for the developing process. Reliable and self motivated
+              personality with constant desire to grow and develop.  I worked with applications for realty, social and education. 
+              I am a fast learner, eager to learn and share knowledge among co-workers. I work on each project with dedication and 
+              creativity.
+            </p>
+        </section>
+
     <section>
             <div style={sectionTitleStyle}>Professional Experience</div>
             <div>
