@@ -126,6 +126,15 @@ const Resume = () => {
             <p>Ukrainian - Native</p>
             <p>English - Advanced</p>
         </section>
+
+        <section>
+            <div style={sectionTitleStyle}>My projects</div>
+            <ul>
+                <li>Damage reporting</li>
+                <li>YomiSmile</li>
+                <li><a href="https://apps.apple.com/ru/app/h%C3%A6str/id6447194427">HAESTR</a></li>
+            </ul>
+        </section>
     </div>
   );
 };
